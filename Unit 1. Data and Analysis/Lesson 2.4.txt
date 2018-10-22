@@ -1,0 +1,16 @@
+1. select max(maxtemperaturef), zip, date
+from weather
+where maxtemperaturef > 130
+group by zip, date
+
+2. select count(*), start_station from trips
+group by start_station
+order by count(*) desc
+
+3. select min(duration), start_station, end_station from trips
+group by start_station, end_station
+order by min(duration)
+
+4. select avg(duration), end_station from trips
+group by end_station
+order by avg(duration)
