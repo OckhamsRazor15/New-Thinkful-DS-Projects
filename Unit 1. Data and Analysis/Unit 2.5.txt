@@ -1,0 +1,23 @@
+Unit 2.5
+
+1. select t.duration, start_station, end_station 
+from trips t
+join weather w on w.zip = t.zip_code
+where w.events = 'Rain'
+order by t.duration desc
+limit 3
+
+2. select * from stations st
+join status s on s.station_id = st.station_id
+order by bikes_available, docks_available
+
+3. Select Count(*), max(st.dockcount) dockcount, max(st.station_id)  from stations st
+join trips t on t.start_terminal = st.station_id
+group by t.start_station
+order by dockcount
+
+4.select max(t.duration) dur, date, start_station 
+from trips t
+join weather w on w.zip = t.zip_code
+where w.events = 'Rain'
+group by date, start_station
