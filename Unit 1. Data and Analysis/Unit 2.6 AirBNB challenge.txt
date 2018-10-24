@@ -1,0 +1,27 @@
+Unit 2.6 AirBNB challenge
+1. the most expensive listing was an entire home on Nob Hill for $9000. It has 2 reviews and 89 days of availability during the year. You must rent the home for a minimum of 30 nights so it's definitely a long term place.
+
+2. Query: select Count(*), neighbourhood 
+from la_listings
+group by neighbourhood
+order by Count(*) desc
+
+The top 5 are Mission, Western Addition, South of Market, Downtown, and Castro in the SF area.
+
+3.Query: select avg(l.price), c.calender_date from la_listings l
+join la_calender c on c.listing_id = l.id
+where c.available = 't'
+group by c.calender_date
+order by avg(l.price)
+
+It seems as though January is a slow month along with April
+
+Part 2 Query: select Count(*), c.calender_date from la_listings l
+join la_calender c on c.listing_id = l.id
+where c.available = 'f'
+group by c.calender_date
+order by Count(*)
+
+
+December is the busiest month with March coming in 2nd.
+
