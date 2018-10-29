@@ -1,0 +1,12 @@
+Lesson 4.5
+
+I chose #3
+
+The Problem
+- The satisfaction rate of our IT employees and HR employees are low. This leads to employee churn and poor work performance.
+
+The Potential Solution
+- Survey the employees 4 times a year in order to gauge their satisfaction. 
+
+The Method of Testing the Solution
+- Since we have workers in multiple countries, we will need to understand the differences in culture when it comes to satisfaction. Also, because we are surveying multiple times a year, there is less of a chance that we will catch people on a bad day. 
