@@ -3,7 +3,7 @@ Lesson 4.5
 I chose #3
 
 The Problem
-- The satisfaction rate of our IT employees and HR employees are low. This leads to employee churn and poor work performance.
+- The satisfaction rate of our IT employees and HR employees are low. This leads to employee churn and poor work performance. We are also running into Simpson's paradox by aggregating at the type level rather than the country level.
 
 The Potential Solution
 - Survey the employees 4 times a year in order to gauge their satisfaction. 
