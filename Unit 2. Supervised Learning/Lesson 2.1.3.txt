@@ -1,0 +1,10 @@
+1. Bad - Looking at just 1994 doesn't really give you enough data nor does it provide anything actionable.
+2. Good - The question is geared towards something actionable with the data.
+3. Good - Looking for correlation between two independent variables
+4. Bad - Doesn't really provide anything actionable nor any good data to go on
+5. Good - Looking for reasons why one company is chosen over another
+6. Good - Actionable business question
+7. Bad - The question may provide good data, but a better question may be how to prevent future disasters.
+8. Bad - This may be something that would be part of a bigger study such as, "How can we lower risks of breast cancer?"
+9. Good - We have a clear goal in mind
+10. Bad - What are we going to do with the data? 
