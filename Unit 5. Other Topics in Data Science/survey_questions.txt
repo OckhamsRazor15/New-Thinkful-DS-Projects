@@ -1,0 +1,17 @@
+- Popularity of various Uber drivers.
+	- Yes, but the survey needs to make sure that middle of the road people are also taking it
+
+- A grocery store wants to know how much people like strawberry, chocolate, and vanilla ice cream
+	- maybe? The grocery store probably cares less about what people like vs what people are buying even if those disagree
+
+- Trojan wants to know whether their condoms are more popular among straight people or gay people
+	- not really. a better survey would be the natural step after this is answered with data, why?
+
+- Recently, rental rates for HappyCars have increased by 30%, which is quite unusual. You want to find out why this is happening and how to keep the increase going
+	- no, look at the data
+
+- Assessing the success rate of a new advertising campaign
+	- no, look at the data
+
+- Measuring the effect of nurse/patient ratio on patient recovery rates in hospital wards.
+	- looking at the data would tell you 
